@@ -83,7 +83,7 @@ Welcome any contributions to improve and expand this guide! Here's how you can c
 
 2. **Clone your fork**
    ```
-   git clone https://github.com/your-username/opensource-sprunki-mod.git
+   git clone https://github.com/shanelan/sprunki-mod.git
    ```
 
 3. **Create a new branch**
@@ -112,6 +112,5 @@ Welcome any contributions to improve and expand this guide! Here's how you can c
    - Add a title and description for your changes
    - Submit the Pull Request
 
-Please ensure your contributions adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) and [Contribution Guidelines](CONTRIBUTING.md).
 
 Thank you for helping make this Sprunki Mod guide even better!
